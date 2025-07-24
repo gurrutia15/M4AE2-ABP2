@@ -1,4 +1,4 @@
-let tipo_cambio = 745
+const tipo_cambio = 745
 let inputDolar= document.getElementById('monto_ingresado')
 let botonIngresar = document.getElementById('btn_ingresar')
 let resultadoDiv = document.getElementById('resultado')
